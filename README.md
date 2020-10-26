@@ -5,3 +5,4 @@
 * Frontend - Tailwind CSS
 * Authentication - Devise gem
 * Debugger - byebug, pry
+* Testing - RSpec, FactoryBot
