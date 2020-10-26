@@ -6,3 +6,7 @@
 * Authentication - Devise gem
 * Debugger - byebug, pry
 * Testing - RSpec, FactoryBot
+
+### Replace starter with your Project name.
+
+* perl -pi -w -e 's/Wheel/Pump/g;' $(git ls-files)
