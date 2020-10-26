@@ -1,6 +1,7 @@
-# Ruby on Rails Boilerplate.
+## Ruby on Rails boilerplate
 
-# Heroku deply Ready.
+### Heroku deployment ready. - [https://ror-starter.herokuapp.com/](https://ror-starter.herokuapp.com/)
 
-## Bebugger - can use binding.pry, byebug
-
+* Frontend - Tailwind CSS
+* Authentication - Devise gem
+* Debugger - byebug, pry
