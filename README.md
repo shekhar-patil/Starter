@@ -7,6 +7,10 @@
 * Debugger - byebug, pry
 * Testing - RSpec, FactoryBot
 
-### Replace starter with your Project name.
+### How Replace starter name with your Project name.
+  Goto root directory of starter app.
+  1. Then run 'git init'
+  2. Then execute following commands
 
-* perl -pi -w -e 's/Wheel/Pump/g;' $(git ls-files)
+* perl -pi -w -e 's/starter/your_project_name/g;' $(git ls-files)
+* perl -pi -w -e 's/STARTER/YOUR_PROJECT_NAME/g;' $(git ls-files)
