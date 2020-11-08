@@ -6,8 +6,9 @@
 * Authentication - Devise gem
 * Debugger - byebug, pry
 * Testing - RSpec, FactoryBot
+* Authorization - CanCanCan
 
-### How Replace starter name with your Project name.
+### How to replace starter name with your Project name.
   Goto root directory of starter app.
   1. Then run 'git init'
   2. Then execute following commands
